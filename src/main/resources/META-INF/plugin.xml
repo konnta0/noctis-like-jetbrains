@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.konnta0.noctisjetbrains</id>
-    <name>noctis-jetbrains</name>
+    <name>noctis</name>
     <vendor>konnta0</vendor>
 
     <depends>com.intellij.modules.platform</depends>
@@ -9,6 +9,8 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.konnta0.noctisjetbrains.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.konnta0.noctisjetbrains.services.MyProjectService"/>
+        <themeProvider id="ef975bd4-0d6d-406f-b42e-3a7c8fa1a31b" path="/noctis.theme.json"/>
+        <themeProvider id="a7e1a7e2-3ec6-45ca-958b-91133fa60f19" path="/noctis_lilac_theme_json.theme.json"/>
     </extensions>
 
     <applicationListeners>

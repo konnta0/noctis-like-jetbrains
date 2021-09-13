@@ -1,0 +1,32 @@
+{
+  "name": "noctis",
+  "dark": false,
+  "author": "konnta0",
+  "editorScheme": "/noctis.xml",
+  "colors": {
+    "Jade": "#00b368",
+    "Green_Haze": "#009456",
+    "Cascade": "#8ca6a6",
+    "Amethyst_Smoke": "#9995b7",
+    "Bondi_Blue": "#0095a8",
+    "Robins_Egg_Blue": "#00bdd6",
+    "Azure_Radiance": "#0094f0",
+    "Electric_Violet": "#5842ff",
+    "PBrink_Pink": "#ff5792",
+    "Trinidad": "#e64100",
+    "Santa_Fe": "#b3694d",
+    "Dark_Goldenrod": "#a88c00",
+    "Yellow_Sea": "#f49725"
+  },
+  "ui": {
+    "Panel.background": "Yellow_Sea",
+    "EditorTabs": {
+      "selectedForeground": "#FFFFFF",
+      "inactiveMaskColor": "#FF0000",
+      "underlineColor": "#FF0000",
+      "underlineHeight": 4,
+      "underlinedTabBackground": "#FF0000",
+      "inactiveColoredFileBackground": "#00000000"
+    }
+  }
+}
