@@ -23,8 +23,15 @@
     "*": {
       "background": "#edecf8"
      },
-    "Panel.background": "#e2dff6",
+    "Panel.background": "#edecf8",
     "Panel.foreground": "#7060eb",
     "SidePanel.background": "#edecf8",
+    "Borders.color": "#ece2c6",
+    "Label.foreground": "#75718e",
+    "Label.disabledForeground": "#7060eb21",
+    "EditorTabs": {
+      "underlinedTabBackground": "#f2f1f8",
+      "underlinedTabForeground": "#7060eb"
+    }
   }
 }
