@@ -10,12 +10,46 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="CARET_ROW_COLOR" value="b4adeb" />
   </colors>
   <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="c6e0" />
+        <option name="EFFECT_COLOR" value="c6e0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c006b" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9995b7" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c6e0" />
+        <option name="EFFECT_COLOR" value="c6e0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c6e0" />
+        <option name="EFFECT_COLOR" value="c6e0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c6e0" />
+        <option name="EFFECT_COLOR" value="c6e0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">
@@ -30,11 +64,6 @@
         <option name="FOREGROUND" value="9995b7" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
-      </value>
-    </option>
-    <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="9995b7" />
       </value>
     </option>
   </attributes>

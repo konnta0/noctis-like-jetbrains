@@ -1,7 +1,7 @@
 {
   "name": "noctis.lilac.theme.json",
   "dark": true,
-  "author": "",
+  "author": "konnta0",
   "editorScheme": "/noctis_lilac_theme_json.xml",
   "colors": {
     "comment": "#9995b7",
@@ -26,7 +26,7 @@
     "Panel.background": "#edecf8",
     "Panel.foreground": "#7060eb",
     "SidePanel.background": "#edecf8",
-    "Borders.color": "#ece2c6",
+    "Borders.color": "#edecf8",
     "Label.foreground": "#75718e",
     "Label.disabledForeground": "#7060eb21",
     "EditorTabs": {
