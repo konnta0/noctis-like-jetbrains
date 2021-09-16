@@ -1,5 +1,6 @@
 <scheme name="noctis.lilac.theme.json" version="142" parent_scheme="Darcula">
   <colors>
+    <option name="CARET_ROW_COLOR" value="b4adeb" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -10,14 +11,38 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="CARET_ROW_COLOR" value="b4adeb" />
+    <option name="LINE_NUMBERS_COLOR" value="9d9ab1" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7060eb" />
   </colors>
   <attributes>
+    <option name="BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff530f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="c6e0" />
         <option name="EFFECT_COLOR" value="c6e0" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="b368" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="b368" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="b368" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -45,6 +70,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="adeb77" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c6e0" />
@@ -52,10 +84,21 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="9e63e3" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="8ce99a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c006b" />
-        <option name="BACKGROUND" value="e9e7f3" />
+        <option name="BACKGROUND" value="f2f1f8" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -65,6 +108,32 @@
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="c006b" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="95a8" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="95a8" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="14dcbd" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
   </attributes>
 </scheme>
