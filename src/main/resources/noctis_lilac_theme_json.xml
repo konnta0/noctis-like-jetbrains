@@ -1,6 +1,6 @@
 <scheme name="noctis.lilac.theme.json" version="142" parent_scheme="Darcula">
   <colors>
-    <option name="CARET_ROW_COLOR" value="b4adeb" />
+    <option name="CARET_ROW_COLOR" value="d7d3f2" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -13,6 +13,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="LINE_NUMBERS_COLOR" value="9d9ab1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7060eb" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ff0000" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -28,12 +29,38 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="c006b" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="95a8" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="95a8" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="14dcbd" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="b368" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
     <option name="DEFAULT_STRING">
       <value>
@@ -72,9 +99,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="adeb77" />
-        <option name="ERROR_STRIPE_COLOR" value="36b13" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="e1d4b5" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -86,13 +111,20 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="9e63e3" />
+        <option name="BACKGROUND" value="5b858b" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="8ce99a" />
+        <option name="BACKGROUND" value="e7e5f6" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="7060eb" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="daefe2" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
       </value>
     </option>
     <option name="TEXT">
@@ -102,6 +134,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="daefe2" />
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9995b7" />
@@ -109,31 +148,21 @@
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c006b" />
+        <option name="FOREGROUND" value="9995b7" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_NAME">
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="95a8" />
+        <option name="BACKGROUND" value="f0dfd1" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="95a8" />
+        <option name="BACKGROUND" value="daefe2" />
+        <option name="ERROR_STRIPE_COLOR" value="8d4457" />
       </value>
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
-    <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="FOREGROUND" value="14dcbd" />
-      </value>
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
     </option>
   </attributes>
 </scheme>
