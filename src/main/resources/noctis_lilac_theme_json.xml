@@ -3,6 +3,7 @@
     <option name="CARET_COLOR" value="5c49e9" />
     <option name="CARET_ROW_COLOR" value="eee9ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="e9e7f3" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="d5d1f2" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -34,10 +35,22 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fa3ff" />
+        <option name="BACKGROUND" value="fa3ff" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="94f0" />
         <option name="BACKGROUND" value="94f0" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cbe6" />
+        <option name="BACKGROUND" value="cbe6" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -58,10 +71,22 @@
         <option name="BACKGROUND" value="bbc3c4" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d17a" />
+        <option name="BACKGROUND" value="d17a" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b368" />
         <option name="BACKGROUND" value="b368" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b9f" />
+        <option name="BACKGROUND" value="ff6b9f" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -75,6 +100,12 @@
         <option name="FOREGROUND" value="c006b" />
       </value>
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4000" />
+        <option name="BACKGROUND" value="ff4000" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e34e1c" />
@@ -84,6 +115,18 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c006b" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbc3c4" />
+        <option name="BACKGROUND" value="bbc3c4" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+        <option name="BACKGROUND" value="ff8c00" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -247,6 +290,30 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="ead3d5" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="ead3d5" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="c7e6d2" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="c7e6d2" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9995b7" />
@@ -339,47 +406,14 @@
         <option name="ERROR_STRIPE_COLOR" value="8d4457" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="fa3ff" />
-        <option name="BACKGROUND" value="fa3ff" />
+        <option name="FOREGROUND" value="5842ff" />
       </value>
     </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="cbe6" />
-        <option name="BACKGROUND" value="cbe6" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="d17a" />
-        <option name="BACKGROUND" value="d17a" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff6b9f" />
-        <option name="BACKGROUND" value="ff6b9f" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff4000" />
-        <option name="BACKGROUND" value="ff4000" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="bbc3c4" />
-        <option name="BACKGROUND" value="bbc3c4" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff8c00" />
-        <option name="BACKGROUND" value="ff8c00" />
-      </value>
-    </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
   </attributes>
 </scheme>
