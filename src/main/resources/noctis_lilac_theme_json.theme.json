@@ -1,13 +1,13 @@
 {
   "name": "noctis.lilac.theme.json",
-  "dark": true,
+  "dark": false,
   "author": "konnta0",
   "editorScheme": "/noctis_lilac_theme_json.xml",
   "ui": {
     "*": {
-      "background": "#edecf8"
+      "background": "#e2dff6"
      },
-    "Panel.background": "#edecf8",
+    "Panel.background": "#e9e7f3",
     "Panel.foreground": "#7060eb",
     "SidePanel.background": "#edecf8",
     "Borders.color": "#edecf8",
