@@ -5,7 +5,9 @@
   "editorScheme": "/noctis_lilac_theme_json.xml",
   "ui": {
     "*": {
-      "background": "#e2dff6"
+      "background": "#e2dff6",
+      "selectionBackground": "#d7d3f3",
+      "selectionForeground": "#0C006B"
      },
     "Panel.background": "#e9e7f3",
     "Panel.foreground": "#7060eb",
