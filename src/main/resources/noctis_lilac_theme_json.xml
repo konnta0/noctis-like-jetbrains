@@ -27,6 +27,7 @@
     <option name="ScrollBar.Mac.thumbColor" value="c1ced4" />
     <option name="TEARLINE_COLOR" value="d2d0e1" />
     <option name="WHITESPACES" value="d1cfe0" />
+    <option name="MT_FILESTATUS_ADDED" value="bdd6" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -244,6 +245,11 @@
         <option name="FOREGROUND" value="9995b7" />
       </value>
     </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="5842ff" />
+      </value>
+    </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="ff5792" />
@@ -406,14 +412,9 @@
         <option name="ERROR_STRIPE_COLOR" value="8d4457" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="5842ff" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
   </attributes>
 </scheme>
