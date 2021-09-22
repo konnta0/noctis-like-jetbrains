@@ -1,9 +1,11 @@
 <scheme name="noctis" version="142">
   <colors>
+    <option name="ADDED_LINES_COLOR" value="16b673" />
     <option name="ANNOTATIONS_COLOR" value="169fb1" />
     <option name="CARET_COLOR" value="85efff" />
     <option name="CARET_ROW_COLOR" value="1c7b89" />
     <option name="CONSOLE_BACKGROUND_KEY" value="e9e7f3" />
+    <option name="DELETED_LINES_COLOR" value="e34e1c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="9454d" />
     <option name="FILESTATUS_ADDED" value="bdd6" />
     <option name="FILESTATUS_COPIED" value="629755" />
@@ -28,9 +30,13 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="52529" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="16b673" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="e34e1c" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="49e9a6" />
     <option name="LINE_NUMBERS_COLOR" value="4e6b6e" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="169fb1" />
     <option name="METHOD_SEPARATORS_COLOR" value="df769b" />
+    <option name="MODIFIED_LINES_COLOR" value="49e9a6" />
     <option name="MT_FILESTATUS_ADDED" value="bdd6" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="3e6f74" />
@@ -46,12 +52,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="16a3b6" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e3541c" />
     <option name="WHITESPACES" value="254144" />
-    <option name="ADDED_LINES_COLOR" value="16b673" />
-    <option name="DELETED_LINES_COLOR" value="e34e1c" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="16b673" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="e34e1c" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="49e9a6" />
-    <option name="MODIFIED_LINES_COLOR" value="49e9a6" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="49e9a6" />
   </colors>
   <attributes>
@@ -482,6 +482,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TAB_SELECTED">
       <value />
     </option>
@@ -493,7 +499,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c006b" />
+        <option name="FOREGROUND" value="b2cacd" />
         <option name="BACKGROUND" value="52529" />
         <option name="EFFECT_TYPE" value="5" />
       </value>

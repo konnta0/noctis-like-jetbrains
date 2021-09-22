@@ -546,5 +546,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
   </attributes>
 </scheme>
