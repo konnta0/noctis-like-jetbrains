@@ -404,6 +404,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c6e0" />
@@ -439,6 +445,9 @@
         <option name="FOREGROUND" value="7060eb" />
       </value>
     </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value />
+    </option>
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value />
     </option>
@@ -471,6 +480,12 @@
       <value>
         <option name="BACKGROUND" value="daefe2" />
         <option name="ERROR_STRIPE_COLOR" value="530d" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="TAB_SELECTED">
@@ -537,19 +552,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LIVE_TEMPLATE_ATTRIBUTES">
-      <value />
-    </option>
     <option name="SUGGESTION">
       <value>
-        <option name="EFFECT_COLOR" value="49ace9" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HINT">
-      <value>
-        <option name="EFFECT_COLOR" value="49ace9" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="a88c00" />
       </value>
     </option>
   </attributes>
