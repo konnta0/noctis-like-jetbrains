@@ -10,7 +10,8 @@
         <applicationService serviceImplementation="com.github.konnta0.noctisjetbrains.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.konnta0.noctisjetbrains.services.MyProjectService"/>
         <themeProvider id="ef975bd4-0d6d-406f-b42e-3a7c8fa1a31b" path="/noctis.theme.json"/>
-        <themeProvider id="a7e1a7e2-3ec6-45ca-958b-91133fa60f19" path="/noctis_lilac_theme_json.theme.json"/>
+        <themeProvider id="a7e1a7e2-3ec6-45ca-958b-91133fa60f19" path="/noctis_lilac.theme.json"/>
+        <themeProvider id="85165380-7286-4851-b266-2e0da55fd671" path="/noctis_uva.theme.json"/>
     </extensions>
 
     <applicationListeners>
