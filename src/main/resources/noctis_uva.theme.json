@@ -5,19 +5,19 @@
   "editorScheme": "/noctis_uva.xml",
   "ui": {
     "*": {
-      "background": "#041d20",
-      "selectionBackground": "#07353b",
-      "selectionForeground": "#b2cacd"
+      "background": "#232136",
+      "selectionBackground": "#2f2c49",
+      "selectionForeground": "#c5c2d6"
      },
-    "Panel.background": "#03191b",
-    "Panel.foreground": "#b2cacd",
-    "SidePanel.background": "#041d20",
-    "Borders.color": "#041d20",
-    "Label.foreground": "#a5b5b5",
-    "Label.disabledForeground": "#169fb121",
+    "Panel.background": "#292640",
+    "Panel.foreground": "#c5c2d6",
+    "SidePanel.background": "#232136",
+    "Borders.color": "#232136",
+    "Label.foreground": "#a9a5c0",
+    "Label.disabledForeground": "#2d2b3b",
     "EditorTabs": {
-      "underlinedTabBackground": "#052529",
-      "underlinedTabForeground": "#b2cacd"
+      "underlinedTabBackground": "#292640",
+      "underlinedTabForeground": "#0f1415"
     }
   }
 }
