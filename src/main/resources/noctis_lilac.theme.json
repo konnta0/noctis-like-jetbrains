@@ -2,7 +2,7 @@
   "name": "like noctis(Lilac)",
   "dark": false,
   "author": "konnta0",
-  "editorScheme": "/noctis_lilac_theme_json.xml",
+  "editorScheme": "/noctis_lilac.xml",
   "ui": {
     "*": {
       "background": "#e2dff6",
