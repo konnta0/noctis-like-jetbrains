@@ -466,6 +466,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="9995b7" />
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -484,8 +485,7 @@
     </option>
     <option name="SUGGESTION">
       <value>
-        <option name="EFFECT_COLOR" value="49ace9" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="a88c00" />
       </value>
     </option>
     <option name="TAB_SELECTED">
@@ -550,11 +550,6 @@
       <value>
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SUGGESTION">
-      <value>
-        <option name="FOREGROUND" value="a88c00" />
       </value>
     </option>
   </attributes>

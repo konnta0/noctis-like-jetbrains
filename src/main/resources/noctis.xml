@@ -4,7 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="169fb1" />
     <option name="CARET_COLOR" value="85efff" />
     <option name="CARET_ROW_COLOR" value="1c7b89" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="03191b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="3191b" />
     <option name="DELETED_LINES_COLOR" value="e34e1c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="9454d" />
     <option name="FILESTATUS_ADDED" value="bdd6" />
@@ -404,6 +404,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c6e0" />
@@ -460,6 +466,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="5b858b" />
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -477,12 +484,6 @@
       </value>
     </option>
     <option name="SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="49ace9" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HINT">
       <value>
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />

@@ -404,6 +404,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="49ace9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c6e0" />
@@ -460,6 +466,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="716c93" />
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -477,12 +484,6 @@
       </value>
     </option>
     <option name="SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="49ace9" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HINT">
       <value>
         <option name="EFFECT_COLOR" value="49ace9" />
         <option name="EFFECT_TYPE" value="2" />
