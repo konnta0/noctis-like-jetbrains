@@ -18,6 +18,10 @@
     "EditorTabs": {
       "underlinedTabBackground": "#052529",
       "underlinedTabForeground": "#b2cacd"
-    }
+    },
+    "Button.default.startBackground" : "#b2cacd",
+    "Button.default.endBackground" : "#b2cacd",
+    "Button.default.foreground" : "#052529"
+
   }
 }
