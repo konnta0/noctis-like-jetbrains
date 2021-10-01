@@ -190,7 +190,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9995b7" />
+        <option name="FOREGROUND" value="5b858b" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -226,7 +226,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9995b7" />
+        <option name="FOREGROUND" value="5b858b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -292,7 +292,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9995b7" />
+        <option name="FOREGROUND" value="5b858b" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -514,7 +514,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9995b7" />
+        <option name="FOREGROUND" value="5b858b" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
