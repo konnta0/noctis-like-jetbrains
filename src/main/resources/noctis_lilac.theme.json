@@ -9,6 +9,7 @@
       "selectionBackground": "#d7d3f3",
       "selectionForeground": "#0C006B"
      },
+    "Tree.selectionInactiveBackground": "#d7d3f3",
     "Panel.background": "#e9e7f3",
     "Panel.foreground": "#7060eb",
     "SidePanel.background": "#edecf8",

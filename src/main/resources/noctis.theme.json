@@ -9,6 +9,7 @@
       "selectionBackground": "#07353b",
       "selectionForeground": "#b2cacd"
      },
+    "Tree.selectionInactiveBackground": "#07353b",
     "Panel.background": "#052529",
     "Panel.foreground": "#b2cacd",
     "SidePanel.background": "#041d20",
@@ -22,6 +23,5 @@
     "Button.default.startBackground" : "#b2cacd",
     "Button.default.endBackground" : "#b2cacd",
     "Button.default.foreground" : "#052529"
-
   }
 }
