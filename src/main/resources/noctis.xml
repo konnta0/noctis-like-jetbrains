@@ -1,4 +1,4 @@
-<scheme name="noctis" version="142">
+<scheme name="noctis" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="16b673" />
     <option name="ANNOTATIONS_COLOR" value="169fb1" />

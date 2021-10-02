@@ -1,4 +1,4 @@
-<scheme name="noctis.lilac.theme.json" version="142">
+<scheme name="noctis.lilac.theme.json" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="c7e6d2" />
     <option name="ANNOTATIONS_COLOR" value="7060eb" />
